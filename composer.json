@@ -1,0 +1,17 @@
+{
+    "name": "testpackage/testpackage",
+    "description": "testpackage",
+    "authors": [
+        {
+            "name": "sergey.laytaruk",
+            "email": "sergey.laytaruk@gmail.com"
+        }
+    ],
+    "require": {},
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/sergeylaytaruk/testpackage.git"
+        }
+    ]
+}
