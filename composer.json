@@ -8,10 +8,9 @@
         }
     ],
     "require": {},
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/sergeylaytaruk/testpackage.git"
+    "autoload": {
+        "psr-4": {
+            "Testpackage\\Testpackage\\": "/"
         }
-    ]
+    }
 }
